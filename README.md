@@ -1,1 +1,1 @@
-#-How to understand git and github
+## How to understand git and github
